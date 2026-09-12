@@ -4,8 +4,8 @@ This repository contains the randomised polygon benchmark used to evaluate
 generalisation of the rotation-based boustrophedon decomposition coverage
 path planning (CPP) algorithm described in:
 
-> [Author names], "A Coverage Path Planning Algorithm for Closed Irregular
-> Polygons," submitted to *[Journal name]*.
+> [Samrat Dutta, Soumen Roy, Rajat Kumar Pal], "A Coverage Path Planning Algorithm for Closed Irregular
+> Polygons,".
 
 ## Contents
 
@@ -36,7 +36,7 @@ independently contributed polygons:
 - **Irregular** — convex hull with a random subset of vertices displaced
   toward the centroid
 - **Field** — smooth, low-frequency radial perturbation of a circle
-  (agricultural field / lake boundary)
+  (agricultural field/lake boundary)
 - **Coastal** — union of several overlapping smooth blobs, producing a
   single connected landmass with bays and peninsulas
 
