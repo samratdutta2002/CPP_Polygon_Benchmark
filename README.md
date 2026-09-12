@@ -9,12 +9,12 @@ path planning (CPP) algorithm described in:
 
 ## Contents
 
-├── polygons/               943 simple polygon files, "(x, y)" per line
+├── polygons/                            943 simple polygon files, "(x, y)" per line
 ├── results/
-│   ├── Situation_1.xlsx     Fixed width, rotation OFF
-│   ├── Situation_2.xlsx     Fixed width, rotation ON
-│   ├── Situation_3.xlsx     Proportional width, rotation OFF
-│   └── Situation_4.xlsx     Proportional width, rotation ON
+│   ├── Situation_1.xlsx                 Fixed width, rotation OFF
+│   ├── Situation_2.xlsx                 Fixed width, rotation ON
+│   ├── Situation_3.xlsx                 Proportional width, rotation OFF
+│   └── Situation_4.xlsx                 Proportional width, rotation ON
 ├── heatmaps/
 │   ├── Situation_1/ ... Situation_4/    coverage heatmap PNG per polygon
 ├── generate_benchmark_polygons.py       corpus generation script
@@ -103,4 +103,4 @@ This dataset is released under the [CC-BY-4.0](https://creativecommons.org/licen
 
 ## Contact
 
-Questions about this dataset can be directed to [your email / GitHub handle].
+Questions about this dataset can be directed to [samrat2002dutta@gmail.com / samratdutta2002].
