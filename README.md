@@ -4,8 +4,8 @@ This repository contains the randomised polygon benchmark used to evaluate
 generalisation of the rotation-based boustrophedon decomposition coverage
 path planning (CPP) algorithm described in:
 
-> [Samrat Dutta, Soumen Roy, Rajat Kumar Pal], "A Coverage Path Planning Algorithm for Closed Irregular
-> Polygons,".
+> [Samrat Dutta, Soumen Roy, Rajat Kumar Pal], "Rotation-Optimised Decomposition of
+> Irregular Concave Polygons for Coverage Path Planning".
 
 ## Contents
 
