@@ -9,6 +9,7 @@ path planning (CPP) algorithm described in:
 
 ## Contents
 
+```text
 ├── polygons/                            943 simple polygon files, "(x, y)" per line
 ├── results/
 │   ├── Situation_1.xlsx                 Fixed width, rotation OFF
